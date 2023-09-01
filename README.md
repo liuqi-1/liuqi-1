@@ -2,6 +2,6 @@
 
 *FROM*：BUPT
 
-*个人主页*：[blog.buptfish.top](blog.buptfish.top)
+*个人主页*：[blog.buptfish.top](https://blog.buptfish.top)
 
 *EMAIL*：liu-qi@bupt.edu.cn
